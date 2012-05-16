@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/maxi/projects/archivosmedicos/archivosmedicos/templates/fichas'
+let g:netrw_dirhist_2='/home/maxi/projects/plannacer/plannacer/lib/firebird'
+let g:netrw_dirhist_3='/home/maxi/projects/plannacer/plannacer/lib'
+let g:netrw_dirhist_4='/home/maxi/projects/plannacer/plannacer'
+let g:netrw_dirhist_5='apps'
+let g:netrw_dirhist_6='apps/ajax_select'
+let g:netrw_dirhist_7='/home/maxi/projects/plannacer/branches/nuevo-nomenclador/plannacer/templates/gestion/planillas'
